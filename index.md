@@ -27,4 +27,4 @@ Trade
 Computer Science
 Chemistry
 
-[Link](url) and ![Image](D:\Amir 2)
+[Link](url) and ![Image](src)
