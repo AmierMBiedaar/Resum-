@@ -1,7 +1,6 @@
 ## Welcome to My GitHub Account
 Hey There ! I'm a newbie in coding and an UI/UX Designer. I'm taking the courses to become better at my work and field of education ; so if there's any help you can give me, it'll be appreciated :) .
 Below you will find more information about me ...
-### Markdown
 
 # About Me
 
@@ -31,4 +30,4 @@ Computer Science
 
 Chemistry
 
-[Link](url) and ![Image](https://www.google.com/search?q=profile+picture&tbm=isch&source=iu&ictx=1&fir=c4DKZX1IkCpVhM%252Cb5C9ViMmmhpq-M%252C_&vet=1&usg=AI4_-kRiQajPZ0ikwWaCOOYwoUns_YehZg&sa=X&ved=2ahUKEwiy4aLHh6bsAhXfCmMBHS6QDhYQ9QF6BAgREFw&biw=1366&bih=667#imgrc=c4DKZX1IkCpVhM)
+[Link](url) and ![Image](https://unsplash.com/photos/2LowviVHZ-E)
