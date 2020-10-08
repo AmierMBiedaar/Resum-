@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AmierMBiedaar/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Welcome to My GitHub Account
+Hey There ! I'm a newbie in coding and an UI/UX Designer. I'm taking the courses to become better at my work and field of education ; so if there's any help you can give me, it'll be appreciated :) .
+Below you will find more information about me ...
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About Me
+21 years old ;
 
-```markdown
-Syntax highlighted code block
+Mathematical diploma of Imam Moosa Sadr Highschool;
 
-# Header 1
-## Header 2
-### Header 3
+Working as A salesperson in an Eyewear Gallery;
 
+familiar with c , c++ .
+
+## Skills
+
+No skills found or gained yet ... (if "hardworker" is counted a skill)
+
+### **Intrests**
 - Bulleted
-- List
+_Art_
+Video Games
+Trade
+Computer Science
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmierMBiedaar/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](url) and ![Image](https://www.google.com/search?q=profile+picture&tbm=isch&source=iu&ictx=1&fir=c4DKZX1IkCpVhM%252Cb5C9ViMmmhpq-M%252C_&vet=1&usg=AI4_-kRiQajPZ0ikwWaCOOYwoUns_YehZg&sa=X&ved=2ahUKEwiy4aLHh6bsAhXfCmMBHS6QDhYQ9QF6BAgREFw&biw=1366&bih=667#imgrc=c4DKZX1IkCpVhM)
